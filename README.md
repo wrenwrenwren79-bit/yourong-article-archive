@@ -30,7 +30,7 @@ python3 tools/verify_archive.py
 
 ## 数据库与知识库方案
 
-[精细提取与知识库数据库方案](docs/YOURONG_ARTICLE_KNOWLEDGE_INGESTION_DESIGN.md) 定义原文分块、字段字典、知识单元、文章版本、证据引用、审核及分阶段入库流程。方案中的现有代码路径指 SIP&DRINK 应用仓库；本归档仓库仅保存方案与来源样例。
+[精细提取与知识库数据库方案](docs/YOURONG_ARTICLE_KNOWLEDGE_INGESTION_DESIGN.md) 定义原文分块、字段字典、知识单元、文章版本、证据引用、审核及分阶段入库流程，并包含 RAG 混合检索、带引用问答、索引更新和验收方案。方案中的现有代码路径指 SIP&DRINK 应用仓库；本归档仓库仅保存方案与来源样例。
 
 [提取样例](docs/yourong-ingestion-examples.json) 包含 3 篇原文的 11 条候选断言、16 个已校验原文锚点，以及 1 个派生值示例。`archiveRelativePath` 相对于本仓库根目录，`projectArchivePath` 用于应用工作区。样例不是已写入数据库或已独立验证的事实。
 
