@@ -1,0 +1,462 @@
+{
+  "schemaVersion": "design-example-v1",
+  "status": "proposal_only_no_database_writes",
+  "offsetUnit": "unicode_code_point",
+  "interval": "half_open",
+  "validationScope": "Stored body hash and exact evidence locations only; this is not independent factual verification.",
+  "documents": [
+    {
+      "articleId": "3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ",
+      "title": "有容乃大咖啡订阅 - 第58期豆公布",
+      "bodySha256": "4d7a6deccad277fb0f267cc9448296d631c3a9686b90b258ea649035dfe68348",
+      "archiveStatus": "body_recovered",
+      "fullOriginalVerified": false,
+      "projectArchivePath": "apps/web/output/data/yourong/original_archive_2026-10-01/articles/3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ.json",
+      "archiveRelativePath": "articles/3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ.json"
+    },
+    {
+      "articleId": "3580480498-2247493004_4",
+      "title": "冲煮测试 - 基础篇 - 仅调整研磨度，中心注水，两段/三段式",
+      "bodySha256": "a15853e805ff61496bd730cefb094c75f3b25e3cdf4e5d0250c73420813a4413",
+      "archiveStatus": "body_recovered",
+      "fullOriginalVerified": false,
+      "projectArchivePath": "apps/web/output/data/yourong/original_archive_2026-10-01/articles/3580480498-2247493004_4.json",
+      "archiveRelativePath": "articles/3580480498-2247493004_4.json"
+    },
+    {
+      "articleId": "3580480498-2247486976_3",
+      "title": "关于水质 - Pt.1 - TDS与TDS笔",
+      "bodySha256": "6fe02a3f4039fc4f05d84019d7846b750201fb3be584fd3b57a1d611aa95dc16",
+      "archiveStatus": "body_recovered",
+      "fullOriginalVerified": false,
+      "projectArchivePath": "apps/web/output/data/yourong/original_archive_2026-10-01/articles/3580480498-2247486976_3.json",
+      "archiveRelativePath": "articles/3580480498-2247486976_3.json"
+    }
+  ],
+  "claims": [
+    {
+      "exampleKey": "collection-pack-count",
+      "sourceArticleId": "3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ",
+      "snapshotBodySha256": "4d7a6deccad277fb0f267cc9448296d631c3a9686b90b258ea649035dfe68348",
+      "subject": {
+        "localKey": "issue58",
+        "type": "source_collection"
+      },
+      "predicate": "collection.sample_count",
+      "value": {
+        "value": 9,
+        "unit": "pack"
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 0,
+          "end": 19,
+          "quote": "本期豆子如下（一共：16g*9小包）："
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Do not create nine canonical CoffeeBean records without identity review."
+      ]
+    },
+    {
+      "exampleKey": "collection-sample-mass",
+      "sourceArticleId": "3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ",
+      "snapshotBodySha256": "4d7a6deccad277fb0f267cc9448296d631c3a9686b90b258ea649035dfe68348",
+      "subject": {
+        "localKey": "issue58",
+        "type": "source_collection"
+      },
+      "predicate": "collection.sample_mass",
+      "value": {
+        "value": 16,
+        "unit": "g"
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 0,
+          "end": 19,
+          "quote": "本期豆子如下（一共：16g*9小包）："
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": []
+    },
+    {
+      "exampleKey": "chombi-price",
+      "sourceArticleId": "3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ",
+      "snapshotBodySha256": "4d7a6deccad277fb0f267cc9448296d631c3a9686b90b258ea649035dfe68348",
+      "subject": {
+        "localKey": "issue58/chombi",
+        "type": "coffee_offer"
+      },
+      "predicate": "offer.price",
+      "value": {
+        "amount": "317.5",
+        "currency": "CNY",
+        "basisMassG": 100,
+        "rawValue": "¥317.5/100g",
+        "normalizationRule": "CNY is a proposed locale-based normalization; confirm during review."
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 20,
+          "end": 67,
+          "quote": "巴拿马\n阿尔铁里庄园 Chombi地块 瑰夏 厌氧水洗\n（¥317.5/100g） 16g*1"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Not the actual price of one 16 g subscription sample.",
+        "Not a timeless CoffeeBean price."
+      ]
+    },
+    {
+      "exampleKey": "ale-low-temperature",
+      "sourceArticleId": "3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ",
+      "snapshotBodySha256": "4d7a6deccad277fb0f267cc9448296d631c3a9686b90b258ea649035dfe68348",
+      "subject": {
+        "localKey": "issue58/ale",
+        "type": "source_bean_subject"
+      },
+      "predicate": "process.drying_qualifier",
+      "value": {
+        "rawValue": "低温缓慢干燥",
+        "temperatureC": null,
+        "durationHours": null
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 292,
+          "end": 312,
+          "quote": "Ale地块 瑰夏 厌氧日晒后低温缓慢干燥"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Do not inherit this condition into Gene or Chombi.",
+        "Do not infer a numerical temperature or duration."
+      ]
+    },
+    {
+      "exampleKey": "expected-shipment",
+      "sourceArticleId": "3580480498-3580480498_uYJd2-T2wfkuuWstCtcxzQ",
+      "snapshotBodySha256": "4d7a6deccad277fb0f267cc9448296d631c3a9686b90b258ea649035dfe68348",
+      "subject": {
+        "localKey": "issue58",
+        "type": "source_collection"
+      },
+      "predicate": "collection.expected_ship_date",
+      "value": {
+        "value": "2026-09-25",
+        "precision": "approximate",
+        "dateRole": "expected_shipping",
+        "rawValue": "2026.9.25号左右"
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 1533,
+          "end": 1553,
+          "quote": "本期将于2026.9.25号左右陆续发出"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Lot.harvestDate",
+        "RoastBatch.roastedAt",
+        "actualShipmentCompletedAt"
+      ]
+    },
+    {
+      "exampleKey": "grind-dose",
+      "sourceArticleId": "3580480498-2247493004_4",
+      "snapshotBodySha256": "a15853e805ff61496bd730cefb094c75f3b25e3cdf4e5d0250c73420813a4413",
+      "subject": {
+        "localKey": "grind/2024-05-02",
+        "type": "source_experiment"
+      },
+      "predicate": "recipe.dose",
+      "value": {
+        "value": 16,
+        "unit": "g"
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 201,
+          "end": 229,
+          "quote": "粉水比：16/256g（水多几g少几g问题不大，别担心）"
+        },
+        {
+          "role": "context",
+          "textLayer": "snapshot_body",
+          "start": 169,
+          "end": 182,
+          "quote": "测试日期：2024.5.2"
+        },
+        {
+          "role": "context",
+          "textLayer": "snapshot_body",
+          "start": 183,
+          "end": 200,
+          "quote": "咖啡豆：佐园瑰夏水洗 4.10批次"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": []
+    },
+    {
+      "exampleKey": "grind-water",
+      "sourceArticleId": "3580480498-2247493004_4",
+      "snapshotBodySha256": "a15853e805ff61496bd730cefb094c75f3b25e3cdf4e5d0250c73420813a4413",
+      "subject": {
+        "localKey": "grind/2024-05-02",
+        "type": "source_experiment"
+      },
+      "predicate": "recipe.water_mass",
+      "value": {
+        "value": 256,
+        "unit": "g",
+        "qualifier": "nominal"
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 201,
+          "end": 229,
+          "quote": "粉水比：16/256g（水多几g少几g问题不大，别担心）"
+        },
+        {
+          "role": "context",
+          "textLayer": "snapshot_body",
+          "start": 169,
+          "end": 182,
+          "quote": "测试日期：2024.5.2"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": []
+    },
+    {
+      "exampleKey": "grind-date-bean-change",
+      "sourceArticleId": "3580480498-2247493004_4",
+      "snapshotBodySha256": "a15853e805ff61496bd730cefb094c75f3b25e3cdf4e5d0250c73420813a4413",
+      "subject": {
+        "localKey": "grind/2024-05-04",
+        "type": "source_experiment"
+      },
+      "predicate": "experiment.bean_change",
+      "value": {
+        "changed": true,
+        "roastDateRaw": "4.21日",
+        "harvestLabelRaw": "2024产季"
+      },
+      "assertionKind": "reported_fact",
+      "qualifiers": {},
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 2260,
+          "end": 2287,
+          "quote": "豆子：佐园瑰夏水洗2024产季小颗粒， 4.21日烘焙"
+        },
+        {
+          "role": "context",
+          "textLayer": "snapshot_body",
+          "start": 2244,
+          "end": 2257,
+          "quote": "测试日期：2024.5.4"
+        },
+        {
+          "role": "context",
+          "textLayer": "snapshot_body",
+          "start": 2356,
+          "end": 2405,
+          "quote": "//豆子有更换，但可以通过风味的呈现强度来判断与昨天的相关性；有条件的话，用同一批次的豆子会更准确"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Do not treat the May 2 to May 4 sequence as a fully controlled same-batch experiment."
+      ]
+    },
+    {
+      "exampleKey": "unassigned-temperature-deviation",
+      "sourceArticleId": "3580480498-2247493004_4",
+      "snapshotBodySha256": "a15853e805ff61496bd730cefb094c75f3b25e3cdf4e5d0250c73420813a4413",
+      "subject": {
+        "localKey": "grind/article-experiments",
+        "type": "experiment_collection"
+      },
+      "predicate": "experiment.temperature_deviation",
+      "value": {
+        "setpointC": 91,
+        "reportedActualC": 95,
+        "affectedArmIds": null,
+        "occurrenceCount": null
+      },
+      "assertionKind": "observation",
+      "qualifiers": {
+        "scope": "unspecified subset of brews in this article",
+        "attribution": "article author"
+      },
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 3428,
+          "end": 3455,
+          "quote": "中间有几次烧水壶的水温温控有问题，设置91，烧到了95"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Do not change the temperature of every arm to 95 C."
+      ]
+    },
+    {
+      "exampleKey": "one-variable-method",
+      "sourceArticleId": "3580480498-2247493004_4",
+      "snapshotBodySha256": "a15853e805ff61496bd730cefb094c75f3b25e3cdf4e5d0250c73420813a4413",
+      "subject": {
+        "localKey": "grind/one-variable-method",
+        "type": "knowledge_candidate"
+      },
+      "predicate": "method.change_one_variable",
+      "value": {
+        "instruction": "每次只改变一个变量"
+      },
+      "assertionKind": "recommendation",
+      "qualifiers": {
+        "attribution": "article author",
+        "scope": "the described brewing adjustment method"
+      },
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 2081,
+          "end": 2131,
+          "quote": "注意每次调整变量，就只改变一个\n，不要同时改变多个变量，避免带来的不稳定的结果，无法去复盘分析原因～"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": []
+    },
+    {
+      "exampleKey": "tds-instrument-mode-hypothesis",
+      "sourceArticleId": "3580480498-2247486976_3",
+      "snapshotBodySha256": "6fe02a3f4039fc4f05d84019d7846b750201fb3be584fd3b57a1d611aa95dc16",
+      "subject": {
+        "localKey": "water/xiaomi-pen-unspecified-model",
+        "type": "instrument_mention"
+      },
+      "predicate": "instrument.possible_conversion_mode",
+      "value": {
+        "mode": "NaCl",
+        "modality": "author_guess",
+        "model": null
+      },
+      "assertionKind": "hypothesis",
+      "qualifiers": {
+        "attribution": "article author",
+        "verifiedSpecification": false
+      },
+      "evidence": [
+        {
+          "role": "assertion",
+          "textLayer": "snapshot_body",
+          "start": 399,
+          "end": 432,
+          "quote": "普通的笔，比如说小米，是没有模式选择的，我猜很可能是NaCl模式的"
+        }
+      ],
+      "reviewStatus": "design_example_not_promoted",
+      "confidence": null,
+      "forbiddenMappings": [
+        "Do not write this into an instrument specification or a verified definition."
+      ]
+    }
+  ],
+  "derivations": [
+    {
+      "exampleKey": "grind-ratio",
+      "predicate": "recipe.water_to_coffee_ratio",
+      "inputExamples": [
+        "grind-water",
+        "grind-dose"
+      ],
+      "formula": "water_mass_g / dose_g",
+      "result": 16,
+      "display": "1:16",
+      "qualifier": "nominal",
+      "kind": "derived",
+      "reviewStatus": "design_example_not_promoted"
+    }
+  ],
+  "knowledgeCandidates": [
+    {
+      "type": "procedure",
+      "title": "固定条件并逐次调整研磨度",
+      "inputExamples": [
+        "one-variable-method",
+        "grind-dose",
+        "grind-water"
+      ],
+      "publicationStatus": "draft_needs_editorial_review",
+      "limitations": [
+        "Grinder settings are device-specific.",
+        "The source series changes bean batch and dripper conditions.",
+        "Some brews have unassigned temperature deviations."
+      ]
+    },
+    {
+      "type": "misconception",
+      "title": "不要把作者对仪器模式的猜测当作规格",
+      "inputExamples": [
+        "tds-instrument-mode-hypothesis"
+      ],
+      "publicationStatus": "draft_needs_editorial_review",
+      "limitations": [
+        "This example classifies the statement; it does not verify the instrument mode."
+      ]
+    }
+  ]
+}
