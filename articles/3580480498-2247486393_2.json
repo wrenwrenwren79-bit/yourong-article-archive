@@ -1,0 +1,22 @@
+{
+  "article_id": "3580480498-2247486393_2",
+  "title": "招聘 | 浦东芳华路",
+  "source_url": "https://mp.weixin.qq.com/s/eFrONmIRIQ9-etYU9wjBAA",
+  "publish_time": 1550414748,
+  "status": "body_recovered",
+  "extraction_method": "article_dom",
+  "body_text": "浦东招人咯",
+  "body_html": "<div class=\"rich_media_content js_underline_content\" id=\"js_content\" style=\"visibility: hidden; opacity: 0; \">\n<p style=\"text-align: center;\">\n<span style=\"color: rgb(255, 76, 0);font-size: 20px;\">\n<strong>\n           浦东招人咯\n          </strong>\n</span>\n</p>\n<p>\n<br/>\n</p>\n<p style=\"text-align: center;\">\n<img src=\"https://mmbiz.qpic.cn/mmbiz_png/j67J43ibr4nicPsI8cH1icFAaYasNiaUCgoJUVThbANeslyicwaw9UQCdrE0JNekOszZPmaMopdtLX71eicZVmo47nNA/640?wx_fmt=png\"/>\n</p>\n<p>\n<br/>\n</p>\n</div>",
+  "image_urls": [
+    "https://mmbiz.qpic.cn/mmbiz_png/j67J43ibr4nicPsI8cH1icFAaYasNiaUCgoJUVThbANeslyicwaw9UQCdrE0JNekOszZPmaMopdtLX71eicZVmo47nNA/640?wx_fmt=png"
+  ],
+  "text_length": 5,
+  "image_count": 1,
+  "raw_sha256": "46d5b4f534c5092641c153b3d743a4e74f93979e425d53a5c07d5d2b36549752",
+  "body_sha256": "080f5c1d05b8544f77ba8edce0d47344dcc0b3ac6652379cada6a967e699cf84",
+  "original_index_status": "body_short",
+  "images_downloaded": true,
+  "full_original_verified": false,
+  "local_image_count": 1,
+  "missing_image_count": 0
+}

@@ -1,0 +1,22 @@
+{
+  "article_id": "3580480498-2247489251_1",
+  "title": "门店恢复营业 - 仅限外带",
+  "source_url": "https://mp.weixin.qq.com/s/H0NQhgYJC2ajXMAz8ykelg",
+  "publish_time": 1654594608,
+  "status": "body_recovered",
+  "extraction_method": "article_dom",
+  "body_text": "门店已恢复营业\n暂时只可以提供外带服务\n谢谢大家的理解和支持",
+  "body_html": "<div class=\"rich_media_content js_underline_content\" id=\"js_content\" style=\"visibility: hidden; opacity: 0; \">\n<p style=\"line-height: 1.75em;\">\n<span style=\"font-size: 14px;\">\n          门店已恢复营业\n          <br/>\n</span>\n</p>\n<p style=\"line-height: 1.75em;\">\n<span style=\"font-size: 14px;\">\n          暂时只可以提供外带服务\n         </span>\n</p>\n<p style=\"line-height: 1.75em;\">\n<span style=\"font-size: 14px;\">\n          谢谢大家的理解和支持\n          <br/>\n</span>\n</p>\n<p style=\"text-align: center;margin-bottom: 0em;\">\n<img src=\"https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7TLQvzsbN9k3qsnfbqq9YkkuBeicLTia6JXp3wWfOxf0oz5NKsF9bnh8Ve2qluOS80zWgB5PUS0bcLA/640?wx_fmt=jpeg\"/>\n</p>\n<p style=\"line-height: 1.75em;\">\n<br/>\n</p>\n</div>",
+  "image_urls": [
+    "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7TLQvzsbN9k3qsnfbqq9YkkuBeicLTia6JXp3wWfOxf0oz5NKsF9bnh8Ve2qluOS80zWgB5PUS0bcLA/640?wx_fmt=jpeg"
+  ],
+  "text_length": 30,
+  "image_count": 1,
+  "raw_sha256": "ce85d0a194b49d68f94bdb12deb7a54d54d110d04dd1180729180e4b92a3a350",
+  "body_sha256": "f3c7630930c72ad508f50c29810aec9aa2005366746db968f4d8ee53fd96ac50",
+  "original_index_status": "body_short",
+  "images_downloaded": true,
+  "full_original_verified": false,
+  "local_image_count": 1,
+  "missing_image_count": 0
+}

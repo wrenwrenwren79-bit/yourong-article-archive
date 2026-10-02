@@ -1,0 +1,24 @@
+{
+  "article_id": "3580480498-2247490124_1",
+  "title": "周六夜狂欢第九期 - 秒杀促销 ABRACADABRA",
+  "source_url": "https://mp.weixin.qq.com/s/7snCdfHRUswEf_VSn3Cg0A",
+  "publish_time": 1666402241,
+  "status": "body_recovered",
+  "extraction_method": "previous_body_archive_reparsed",
+  "body_text": "今晚来抢~\n冲鸭~",
+  "body_html": "<p><span style=\"font-size: 14px;\">今晚来抢~<br/></span></p><p style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" style=\"\"/><img alt=\"\" src=\"https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7QSxOpiay6O4EEZ32T4LCYpkUdbHgzl0h1oe2tE4PHjqFAD7VfAYagceuannrNvdn0rDLXyhuMyXPg/640?wx_fmt=jpeg\"/></p><p style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" style=\"\"/><img alt=\"\" src=\"https://mmbiz.qpic.cn/sz_mmbiz_png/Gr457cyFia7QSxOpiay6O4EEZ32T4LCYpkQcZgzDBc2Oam5XYdlWOCvmWdiaCZdI3IZ25vH7FNP8x0kVumRP3USag/640?wx_fmt=png\"/></p><p><span style=\"font-size: 14px;\">冲鸭~<br/></span></p><p style=\"display: none;\"><mp-style-type></mp-style-type></p>",
+  "image_urls": [
+    "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7QSxOpiay6O4EEZ32T4LCYpkUdbHgzl0h1oe2tE4PHjqFAD7VfAYagceuannrNvdn0rDLXyhuMyXPg/640?wx_fmt=jpeg",
+    "https://mmbiz.qpic.cn/sz_mmbiz_png/Gr457cyFia7QSxOpiay6O4EEZ32T4LCYpkQcZgzDBc2Oam5XYdlWOCvmWdiaCZdI3IZ25vH7FNP8x0kVumRP3USag/640?wx_fmt=png"
+  ],
+  "text_length": 9,
+  "image_count": 2,
+  "raw_sha256": "02ec6a06d7ec5c05b90e7c7bbd489b0d855bbd0ef64e72c216b4c32e5b14df11",
+  "body_sha256": "58a662438ac5073214ef956e4943b295077b0933cf2fd3bd338f595418e84455",
+  "original_index_status": "body_short",
+  "previous_archive_path": "apps/web/output/data/yourong/all_bodies/3580480498-2247490124_1.json",
+  "images_downloaded": true,
+  "full_original_verified": false,
+  "local_image_count": 2,
+  "missing_image_count": 0
+}

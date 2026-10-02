@@ -1,0 +1,22 @@
+{
+  "article_id": "3580480498-2247484286_2",
+  "title": "活动预告 | 11.16 - 11.18 上生新所",
+  "source_url": "https://mp.weixin.qq.com/s/jNnGbfdH56cC-s3SXJjGVQ",
+  "publish_time": 1541207311,
+  "status": "body_recovered",
+  "extraction_method": "article_dom",
+  "body_text": "正文必须有文字",
+  "body_html": "<div class=\"rich_media_content js_underline_content\" id=\"js_content\" style=\"visibility: hidden; opacity: 0; \">\n<p style=\"text-align: center;\">\n<img src=\"https://mmbiz.qpic.cn/mmbiz_png/Gr457cyFia7T8HIXj8Dnlo9A5xN8cnNx0QQDC83hG9oTdmM9WicPLYdxk5EQfqKu2RSDg1XxT757Ficumf7JLLurQ/640?wx_fmt=png\"/>\n</p>\n<p style=\"text-align: center;\">\n<span style=\"font-size: 14px;color: rgb(178, 178, 178);\">\n          正文必须有文字\n         </span>\n</p>\n<p>\n<br/>\n</p>\n</div>",
+  "image_urls": [
+    "https://mmbiz.qpic.cn/mmbiz_png/Gr457cyFia7T8HIXj8Dnlo9A5xN8cnNx0QQDC83hG9oTdmM9WicPLYdxk5EQfqKu2RSDg1XxT757Ficumf7JLLurQ/640?wx_fmt=png"
+  ],
+  "text_length": 7,
+  "image_count": 1,
+  "raw_sha256": "ec8a4fca018081f8801e8fbd578cf68535774fcd1b6e816987a343541eaa5e0f",
+  "body_sha256": "fd890e73bba786ed639cfde1ac7d1601cf90b5a2f2509374ef1294a1eef6027a",
+  "original_index_status": "body_short",
+  "images_downloaded": true,
+  "full_original_verified": false,
+  "local_image_count": 1,
+  "missing_image_count": 0
+}

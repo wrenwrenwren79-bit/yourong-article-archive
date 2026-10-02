@@ -1,0 +1,22 @@
+{
+  "article_id": "3580480498-2247490331_1",
+  "title": "周六夜狂欢第十二期 - 秒杀促销 ABRACADABRA",
+  "source_url": "https://mp.weixin.qq.com/s/W3kjhh5SMjZiZoKM8KMWVA",
+  "publish_time": 1669449723,
+  "status": "body_recovered",
+  "extraction_method": "article_dom",
+  "body_text": "",
+  "body_html": "<div class=\"rich_media_content js_underline_content autoTypeSetting24psection\" id=\"js_content\" style=\"visibility: hidden; opacity: 0; \">\n<p style=\"text-align: center;\">\n<img src=\"https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7QEzxCDcLRUkF58lTSMOdZxicORttNsxFj1huWwOTxdChQDN6ibCnJK3uturQpYOHgwrex8SCicqKiazA/640?wx_fmt=jpeg\"/>\n</p>\n<p>\n<br/>\n</p>\n<p style=\"display: none;\">\n<mp-style-type data-value=\"3\">\n</mp-style-type>\n</p>\n</div>",
+  "image_urls": [
+    "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7QEzxCDcLRUkF58lTSMOdZxicORttNsxFj1huWwOTxdChQDN6ibCnJK3uturQpYOHgwrex8SCicqKiazA/640?wx_fmt=jpeg"
+  ],
+  "text_length": 0,
+  "image_count": 1,
+  "raw_sha256": "d67d59b5e3767d5112099ce1a2b2f3c8d6e069dc53a19bc6d73eb692b0bd4ab4",
+  "body_sha256": null,
+  "original_index_status": "body_pending",
+  "images_downloaded": true,
+  "full_original_verified": false,
+  "local_image_count": 1,
+  "missing_image_count": 0
+}

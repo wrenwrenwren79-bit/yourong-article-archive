@@ -1,0 +1,22 @@
+{
+  "article_id": "3580480498-2247490070_1",
+  "title": "国庆放假通知",
+  "source_url": "https://mp.weixin.qq.com/s/fauGmWk9csVbF1En1XkW_A",
+  "publish_time": 1664521800,
+  "status": "body_recovered",
+  "extraction_method": "article_dom",
+  "body_text": "FYI\n工厂1-7号放假，接单照常，8号开始陆续安排发货\n浦西店国庆照常营业\n浦东店9.30-10.2店休，3号恢复营业\n大家都好好休息~",
+  "body_html": "<div class=\"rich_media_content js_underline_content autoTypeSetting24psection\" id=\"js_content\" style=\"visibility: hidden; opacity: 0; \">\n<p style=\"text-align: center;margin-bottom: 0em;\">\n<strong>\n          FYI\n         </strong>\n</p>\n<p style=\"text-align: center;margin-bottom: 0em;\">\n<br/>\n</p>\n<p style=\"text-align: center;margin-bottom: 0em;\">\n<img src=\"https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7R7VV3XKc2oYFRE2LdmECNYGqhCLt2ibd4v1Mt5ibmCIV0HWunAYGSbdjVUh5tSmMeoXPyvVDjeYODA/640?wx_fmt=jpeg\"/>\n</p>\n<p>\n<br/>\n</p>\n<ul class=\"list-paddingleft-1\" style=\"list-style-type: circle;\">\n<li style=\"font-size: 14px;\">\n<p>\n           工厂1-7号放假，接单照常，8号开始陆续安排发货\n           <br/>\n</p>\n</li>\n<li style=\"font-size: 14px;\">\n<section powered-by=\"werss\" style=\"line-height: 1.75em;\">\n<span style=\"font-size: 14px;\">\n            浦西店国庆照常营业\n           </span>\n</section>\n</li>\n<li style=\"font-size: 14px;\">\n<section powered-by=\"werss\" style=\"line-height: 1.75em;\">\n<span style=\"font-size: 14px;\">\n            浦东店9.30-10.2店休，3号恢复营业\n           </span>\n</section>\n</li>\n</ul>\n<section powered-by=\"werss\" style=\"line-height: 1.75em;\">\n<br/>\n</section>\n<section powered-by=\"werss\" style=\"line-height: 1.75em;text-align: center;\">\n<span style=\"font-size: 14px;\">\n          大家都好好休息~\n         </span>\n</section>\n</div>",
+  "image_urls": [
+    "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gr457cyFia7R7VV3XKc2oYFRE2LdmECNYGqhCLt2ibd4v1Mt5ibmCIV0HWunAYGSbdjVUh5tSmMeoXPyvVDjeYODA/640?wx_fmt=jpeg"
+  ],
+  "text_length": 69,
+  "image_count": 1,
+  "raw_sha256": "73eeb9b54f5dcbe5a5ac4341211101d996192f7c45347999e5e1cc2b730a20ab",
+  "body_sha256": "ec21f1a1f5e08c0c28c0af45b76d58338c403ae177d93b22a2fe041b2ef67c8a",
+  "original_index_status": "body_saved",
+  "images_downloaded": true,
+  "full_original_verified": false,
+  "local_image_count": 1,
+  "missing_image_count": 0
+}

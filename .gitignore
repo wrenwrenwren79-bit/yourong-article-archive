@@ -1,0 +1,6 @@
+images/
+raw/
+*.zip
+*.part
+.DS_Store
+__pycache__/
